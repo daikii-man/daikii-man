@@ -11,12 +11,8 @@
   
 #
 
-### 📝I have also created different projects like :
+### 📝 My projects :
 
-
-- ###  Online Pharmacy  
-  
-  🔗 [opharm.netlify.app](https://www.opharm.netlify.app)
 - ### Webgram : 
   
   🔗 [webgram.netlify.app](https://webgramru.netlify.app)
@@ -71,4 +67,3 @@
 ### 👉🏻 [Joshqin Alimboyev](https://www.linkedin.com/in/joshqin-alimboyev-681ab7279/)
 
 #
-
