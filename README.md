@@ -13,12 +13,16 @@
 
 ### 📝 My projects :
 
-- ### Webgram : 
+- ### Instagram (clone) : 
   
-  🔗 [webgram.netlify.app](https://webgramru.netlify.app)
-- ### Lokalize :
+  🔗 [instagram-clone](https://instagram-clone-mpld1xsb9-daikii-mans-projects.vercel.app/)
+- ### Basecamp (clone) :
 
-  🔗 [lokalize.netlify.app](https://lokalize.netlify.app)
+  🔗 [basecamp-clone](https://basecamp-rust.vercel.app/)
+
+  - ### Dropbox (clone) :
+
+  🔗 [dropbox-clone](https://dropbox-clone-eight-rho.vercel.app/)
 
 <br>
 
