@@ -20,7 +20,7 @@
 
   🔗 [basecamp-clone](https://basecamp-rust.vercel.app/)
 
-  - ### Dropbox (clone) :
+- ### Dropbox (clone) :
 
   🔗 [dropbox-clone](https://dropbox-clone-eight-rho.vercel.app/)
 
